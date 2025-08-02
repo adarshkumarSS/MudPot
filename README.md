@@ -11,7 +11,7 @@ A cross-platform mobile app that monitors plant conditions by displaying real-ti
 ## 📸 Screenshot
 
 <img width="662" height="896" alt="image" src="https://github.com/user-attachments/assets/1254399d-0a2e-4701-bc78-5f2a9f5aed75" />
-<img width="662" height="896" alt="image" src="https://github.com/user-attachments/assets/65d3391b-ac4e-45a9-969e-9558d319ede1" />
+<img width="540" height="1196" alt="image" src="https://github.com/user-attachments/assets/e295dba4-c5f8-47bd-bc38-8b6d08723e2c" />
 
 
 
