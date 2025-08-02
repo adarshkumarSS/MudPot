@@ -9,7 +9,7 @@ export default function App() {
     const fetchData = async () => {
       try {
         const response = await fetch(
-          'https://moodpot-7f5cd-default-rtdb.firebaseio.com/sensor_data.json?auth=UhJkkS4ScZsr57TJzoIYGcbDqgTrz2WhJmh94iN8'
+          'DB_LINK_HERE_IDIOT'
         );
         const result = await response.json();
         setData(result);
