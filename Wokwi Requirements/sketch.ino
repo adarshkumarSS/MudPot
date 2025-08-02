@@ -12,8 +12,8 @@ const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
 // Firebase configuration
-const String FIREBASE_HOST = "moodpot-7f5cd-default-rtdb.firebaseio.com";
-const String FIREBASE_AUTH = "UhJkkS4ScZsr57TJzoIYGcbDqgTrz2WhJmh94iN8";
+const String FIREBASE_HOST = "DB_LINK_HERE_IDIOT";
+const String FIREBASE_AUTH = "TOP_SECRET";
 
 void setup() {
   Serial.begin(115200);
