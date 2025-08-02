@@ -36,6 +36,8 @@ A cross-platform mobile app that monitors plant conditions by displaying real-ti
 
 ### Installation
 
+1. **Clone the repo**
+
 ```bash 
 git clone https://github.com/your-username/plant-monitor.git
 cd plant-monitor
@@ -133,11 +135,6 @@ npx expo start -c
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 Created with ❤️ for healthy plants everywhere 🌱
 
@@ -145,5 +142,5 @@ Created with ❤️ for healthy plants everywhere 🌱
 
 
 
-1. **Clone the repo**
+
 
